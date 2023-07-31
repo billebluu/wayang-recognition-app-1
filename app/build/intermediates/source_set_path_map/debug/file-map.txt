@@ -1,0 +1,44 @@
+org.tensorflow.lite.examples.imageclassification.app-fragment-ktx-1.4.1-0 C:\Users\ASUS\.gradle\caches\transforms-3\057f653ee1fbb54770764bce75e210ac\transformed\fragment-ktx-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-core-ktx-1.8.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\0c97f3352d90ddec29ed8ce0699de063\transformed\core-ktx-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-material-1.6.1-2 C:\Users\ASUS\.gradle\caches\transforms-3\0e17f466a4f1fbf3f8b49876aa8ef78a\transformed\material-1.6.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-process-2.4.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\1dd1c6ea6e3c1064c08d5e742eaac6c2\transformed\lifecycle-process-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-core-1.2.0-alpha02-4 C:\Users\ASUS\.gradle\caches\transforms-3\2159160723ad02d5e2848ad02b9dd132\transformed\camera-core-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-ktx-2.4.2-5 C:\Users\ASUS\.gradle\caches\transforms-3\299c534eda63b440188c0cee0d20ef9f\transformed\navigation-fragment-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-camera2-1.2.0-alpha02-6 C:\Users\ASUS\.gradle\caches\transforms-3\2f1427307608e423b7d44aa521ff559f\transformed\camera-camera2-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-camera-lifecycle-1.2.0-alpha02-7 C:\Users\ASUS\.gradle\caches\transforms-3\32808d50011a21e0d94596d1f526a6e1\transformed\camera-lifecycle-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-coordinatorlayout-1.1.0-8 C:\Users\ASUS\.gradle\caches\transforms-3\436960ba47cb929a053dffa28c927364\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-view-1.2.0-alpha02-9 C:\Users\ASUS\.gradle\caches\transforms-3\4fa99ad22db844b0841a50d4adb9da89\transformed\camera-view-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-transition-1.4.1-10 C:\Users\ASUS\.gradle\caches\transforms-3\5a61e77a2751b984bdbd2941a742309e\transformed\transition-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-annotation-experimental-1.1.0-11 C:\Users\ASUS\.gradle\caches\transforms-3\5cd383ab37ccccbc47c122d1a1bd59c3\transformed\annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-resources-1.4.2-12 C:\Users\ASUS\.gradle\caches\transforms-3\64fafef1eed1a375f12f4c065801349c\transformed\appcompat-resources-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-views-helper-1.0.0-13 C:\Users\ASUS\.gradle\caches\transforms-3\71c581afb4c57657a54425556ac27535\transformed\emoji2-views-helper-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-ktx-2.4.2-14 C:\Users\ASUS\.gradle\caches\transforms-3\7ae5ae4e9fbd4e6d7bfcb5ad4740929f\transformed\navigation-ui-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-cardview-1.0.0-15 C:\Users\ASUS\.gradle\caches\transforms-3\7b940b8a451d2cb90aee93f6e2cad9ff\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.8.0-16 C:\Users\ASUS\.gradle\caches\transforms-3\85c871def785c634508ed6e0215cd067\transformed\core-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-slidingpanelayout-1.2.0-17 C:\Users\ASUS\.gradle\caches\transforms-3\85f6d754c36309b748e3b3749b5fa19a\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-drawerlayout-1.1.1-18 C:\Users\ASUS\.gradle\caches\transforms-3\8a58024278f0bb9028679e645fe6b130\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-ktx-2.4.2-19 C:\Users\ASUS\.gradle\caches\transforms-3\8ea4bf37c293971f3f66879a3074b625\transformed\navigation-common-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-2.4.0-20 C:\Users\ASUS\.gradle\caches\transforms-3\a3688e216ae37e8591d96176d0f84b4c\transformed\lifecycle-runtime-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-1.4.2-21 C:\Users\ASUS\.gradle\caches\transforms-3\a9a8b41ceb324a429bbdf044575b8351\transformed\appcompat-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-2.4.2-22 C:\Users\ASUS\.gradle\caches\transforms-3\ac51f6cc5b7744e258ee58bac8420f01\transformed\navigation-runtime-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-1.0.0-23 C:\Users\ASUS\.gradle\caches\transforms-3\acae8458e8471217cb99d846f275e452\transformed\emoji2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-2.4.2-24 C:\Users\ASUS\.gradle\caches\transforms-3\b956a291d21f0c7b0800c61f79ef2c55\transformed\navigation-common-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-2.3.1-25 C:\Users\ASUS\.gradle\caches\transforms-3\bd22a3196337da6863fc8f690336c1bc\transformed\lifecycle-viewmodel-2.3.1\res
+org.tensorflow.lite.examples.imageclassification.app-constraintlayout-2.1.4-26 C:\Users\ASUS\.gradle\caches\transforms-3\c15bfd6de1739b688d48e47fbeabb8c1\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-1.1.0-27 C:\Users\ASUS\.gradle\caches\transforms-3\c4bc61a3a146d169643f26414a5752b0\transformed\savedstate-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-2.4.2-28 C:\Users\ASUS\.gradle\caches\transforms-3\d4c37b61eabeeaee3c47bf31b4a4f5b9\transformed\navigation-ui-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-2.4.2-29 C:\Users\ASUS\.gradle\caches\transforms-3\d6cc55430104c33a9b055f48dc2dcfe5\transformed\navigation-fragment-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-recyclerview-1.1.0-30 C:\Users\ASUS\.gradle\caches\transforms-3\d8bfb1281228a428f210138bda656983\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-1.4.1-31 C:\Users\ASUS\.gradle\caches\transforms-3\dfb4ec8fca71bbe16f511711cb9d5c5a\transformed\fragment-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-window-1.1.0-alpha02-32 C:\Users\ASUS\.gradle\caches\transforms-3\e8842ba01bbe8451327896fbf8bb5da1\transformed\window-1.1.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-ktx-2.4.2-33 C:\Users\ASUS\.gradle\caches\transforms-3\f75a0453726ad7e6daae9d77ab70754a\transformed\navigation-runtime-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-viewpager2-1.0.0-34 C:\Users\ASUS\.gradle\caches\transforms-3\fc0a006181f2f488c039a1474a0e54e0\transformed\viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-startup-runtime-1.0.0-35 C:\Users\ASUS\.gradle\caches\transforms-3\fccfe355cbbe35d513f3f729f0dd7c1f\transformed\startup-runtime-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-pngs-36 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.imageclassification.app-resValues-37 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.imageclassification.app-rs-38 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\generated\res\rs\debug
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-39 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-40 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.app-merged_res-41 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\build\intermediates\merged_res\debug
+org.tensorflow.lite.examples.imageclassification.app-debug-42 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\src\debug\res
+org.tensorflow.lite.examples.imageclassification.app-main-43 D:\Kuliah\Kecerdasan Buatan\Wayang-Recognition-App\app\app\src\main\res
